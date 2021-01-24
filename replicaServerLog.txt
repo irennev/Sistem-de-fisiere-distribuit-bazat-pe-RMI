@@ -1,0 +1,31 @@
+2021-01-24 14:58:37.808: [@Replica] taking charge of file: MyFile.txt
+2021-01-24 14:58:37.835: [@ReplicaServer] write 0
+2021-01-24 14:58:37.838: [@ReplicaServer] write 1
+2021-01-24 14:58:37.84: [@ReplicaServer] write 2
+2021-01-24 14:58:37.841: [@Replica] commit intiated
+2021-01-24 14:58:37.843: [@Replica] reflect update initiated
+2021-01-24 14:58:37.845: [@Replica] reflect update initiated
+2021-01-24 14:59:02.664: [@Replica] taking charge of file: MySecondFile.txt
+2021-01-24 14:59:02.678: [@ReplicaServer] write 0
+2021-01-24 14:59:02.679: [@ReplicaServer] write 1
+2021-01-24 14:59:02.681: [@ReplicaServer] write 2
+2021-01-24 14:59:02.683: [@ReplicaServer] write 3
+2021-01-24 14:59:02.684: [@Replica] commit intiated
+2021-01-24 14:59:02.685: [@Replica] reflect update initiated
+2021-01-24 14:59:02.687: [@Replica] reflect update initiated
+2021-01-24 14:59:48.041: [@Replica] taking charge of file: Client2.txt
+2021-01-24 14:59:48.06: [@ReplicaServer] write 0
+2021-01-24 14:59:48.062: [@ReplicaServer] write 1
+2021-01-24 14:59:48.063: [@ReplicaServer] write 2
+2021-01-24 14:59:48.064: [@ReplicaServer] write 3
+2021-01-24 14:59:48.065: [@Replica] commit intiated
+2021-01-24 14:59:48.067: [@Replica] reflect update initiated
+2021-01-24 14:59:48.068: [@Replica] reflect update initiated
+2021-01-24 15:00:17.899: [@Replica] taking charge of file: Client2-2.txt
+2021-01-24 15:00:17.907: [@ReplicaServer] write 0
+2021-01-24 15:00:17.908: [@ReplicaServer] write 1
+2021-01-24 15:00:17.909: [@ReplicaServer] write 2
+2021-01-24 15:00:17.911: [@ReplicaServer] write 3
+2021-01-24 15:00:17.912: [@Replica] commit intiated
+2021-01-24 15:00:17.913: [@Replica] reflect update initiated
+2021-01-24 15:00:17.915: [@Replica] reflect update initiated

@@ -1,0 +1,28 @@
+2021-01-24 14:58:10.525: Server ready
+2021-01-24 14:58:10.533: [@main] respawning replica servers
+2021-01-24 14:58:10.547: replica server state [@ main] = true
+2021-01-24 14:58:10.551: replica server state [@ main] = true
+2021-01-24 14:58:10.555: replica server state [@ main] = true
+2021-01-24 14:58:10.559: replica server state [@ main] = true
+2021-01-24 14:58:10.563: replica server state [@ main] = true
+2021-01-24 14:58:37.795: [@Master] write request initiated
+2021-01-24 14:58:37.796: [@Master] Creating new file initiated
+2021-01-24 14:58:37.799: [@Master] File successfully created
+2021-01-24 14:58:37.8: [@Master] File successfully created
+2021-01-24 14:58:37.804: [@Master] File successfully created
+2021-01-24 14:59:02.656: [@Master] write request initiated
+2021-01-24 14:59:02.659: [@Master] Creating new file initiated
+2021-01-24 14:59:02.66: [@Master] File successfully created
+2021-01-24 14:59:02.661: [@Master] File successfully created
+2021-01-24 14:59:02.663: [@Master] File successfully created
+2021-01-24 14:59:48.034: [@Master] write request initiated
+2021-01-24 14:59:48.034: [@Master] Creating new file initiated
+2021-01-24 14:59:48.037: [@Master] File successfully created
+2021-01-24 14:59:48.039: [@Master] File successfully created
+2021-01-24 14:59:48.04: [@Master] File successfully created
+2021-01-24 15:00:17.891: [@Master] write request initiated
+2021-01-24 15:00:17.892: [@Master] Creating new file initiated
+2021-01-24 15:00:17.895: [@Master] File successfully created
+2021-01-24 15:00:17.897: [@Master] File successfully created
+2021-01-24 15:00:17.898: [@Master] File successfully created
+2021-01-24 15:01:11.496: [@Master] Deleting the file initiated
